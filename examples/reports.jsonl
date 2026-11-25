@@ -1,0 +1,2 @@
+{"csp-report":{"effective-directive":"script-src","blocked-uri":"https://cdn.example/app.js?session=hidden","disposition":"enforce","document-uri":"https://site.example/home"}}
+{"type":"csp-violation","body":{"effectiveDirective":"img-src","blockedURL":"https://images.example/pixel.png","disposition":"report"}}

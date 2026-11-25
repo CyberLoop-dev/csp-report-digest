@@ -1,0 +1,11 @@
+{
+  "name": "csp-report-digest",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Summarize saved Content Security Policy violation reports locally.",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test"
+  }
+}
